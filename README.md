@@ -60,7 +60,7 @@ graph TD
 
 ##Conditional Logic: Implemented Zapier paths to trigger different actions based on application status (e.g., "Rejected" archives the row, "Offer" triggers a high-priority alert).
 
-##💰 Project 3: Omni-Channel Expense Trackers
+## 💰 Project 3: Omni-Channel Expense Trackers
 **Goal:** Create accessible financial tracking tools for both web and mobile users without complex native development.
 
 ###📱 Solution A: Mobile-First (Glide + Google Sheets)
